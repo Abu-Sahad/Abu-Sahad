@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/abusahad001" target="blank"><img src="https://img.shields.io/twitter/follow/abusahad001?logo=twitter&style=for-the-badge" alt="abusahad001" /></a> </p>
 
-- 🔭 I’m currently working on **tastyc**
+- 🔭 I’m currently working on **ThreadZone Emart**
 
 - 🌱 I’m currently learning **MERN Stack**
 
